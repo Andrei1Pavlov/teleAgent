@@ -1,0 +1,6 @@
+call-analyzer/
+├── call_analyzer.py   # Логика анализа звонков
+├── main.py           # Консольный интерфейс
+├── bot.py            # Telegram-бот (опционально)
+├── requirements.txt  # Зависимости
+└── README.md         # Документация
