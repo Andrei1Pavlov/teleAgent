@@ -20,5 +20,5 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/Andrei1Pavlov/call-analyzer.git
-cd call-analyzer
+git clone https://github.com/Andrei1Pavlov/teleAgent.git
+cd teleAgent
